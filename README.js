@@ -42,7 +42,6 @@ function determineAutoqueue() {
 
 function addtoQueue(){
      document.getElementById('button-dj-waitlist-join').click();
-     API.sendChat('AutoWoot: http://adf.ly/KZaFq');
 }
 
 function initListeners() {
